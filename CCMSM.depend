@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1623750733 source:c:\users\richm\downloads\shareit\sm-g6100\ccmsm\ccmsm\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<string>
+	<fstream>
+	<vector>
+
+1623829983 source:c:\users\desktop\desktop\ccmsm\ccmsm\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<string>
+	<fstream>
+	<vector>
+
